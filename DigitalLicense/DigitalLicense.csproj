@@ -75,9 +75,9 @@
   <PropertyGroup>
     <ManifestKeyFile>root.pfx</ManifestKeyFile>
   </PropertyGroup>
-  <PropertyGroup>
+  <!--<PropertyGroup>
     <AssemblyOriginatorKeyFile>root.pfx</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
+  </PropertyGroup>-->
   <PropertyGroup>
     <ManifestTimestampUrl>http://timestamp.digicert.com</ManifestTimestampUrl>
   </PropertyGroup>

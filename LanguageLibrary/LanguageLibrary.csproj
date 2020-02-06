@@ -34,9 +34,9 @@
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
-  <PropertyGroup>
+  <!--<PropertyGroup>
     <AssemblyOriginatorKeyFile>root.pfx</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
+  </PropertyGroup>-->
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
